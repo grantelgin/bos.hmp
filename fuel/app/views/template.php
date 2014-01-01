@@ -12,7 +12,7 @@
 	
 	</head>
 <body>
-<?php include_once Asset::tracking('analyticstracking.php') ?>
+<?php include_once Asset::js('analyticstracking.php') ?>
 <header class="navbar navbar-inverse navbar-fixed-top" role="banner">
 		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container" style="color:#000;">
