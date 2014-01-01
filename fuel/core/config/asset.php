@@ -50,6 +50,7 @@ return array(
 	'img_dir' => 'img/',
 	'js_dir' => 'js/',
 	'css_dir' => 'css/',
+	'tracking_dir' => 'tracking/',
 
 	/**
 	 * You can also specify one or more per asset-type folders. You don't have
