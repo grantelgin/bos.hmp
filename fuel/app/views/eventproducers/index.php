@@ -1,4 +1,4 @@
-<?php include_once("analyticstracking.php") ?>
+
 <div class="col-lg-8 col-md-8 col-lg-offset-2 col-md-offset-2 text-center">
 				<!-- <a href="#project-link"><img class="img-responsive img-rounded" src="/assets/img/reggae.jpg"></a> -->
 				<img class="img-responsive img-rounded" src="../../assets/img/reggaeInnaTrap.jpg">

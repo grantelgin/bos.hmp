@@ -1,4 +1,4 @@
-<?php include_once("analyticstracking.php") ?>
+
 <!--
 <header class="pageBar secondary">
 		<div class="container" style="padding-top:5px;">
